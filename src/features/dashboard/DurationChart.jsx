@@ -9,7 +9,6 @@ import {
   Tooltip,
 } from "recharts";
 import { useDarkMode } from "../../context/DarkModeContext";
-import { da } from "date-fns/locale";
 
 const ChartBox = styled.div`
   /* Box */
